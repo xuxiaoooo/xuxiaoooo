@@ -20,8 +20,14 @@
 ## 我的 GitHub 统计信息
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xuxiaoooo&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xuxiaoooo&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuxiaoooo&repo=github-readme-stats)](https://github.com/xuxiaoooo/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuxiaoooo&repo=ABAFnet)](https://github.com/xuxiaoooo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuxiaoooo&repo=PAAMA)](https://github.com/xuxiaoooo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuxiaoooo&repo=AMA_EEG)](https://github.com/xuxiaoooo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuxiaoooo&repo=small-scale_fighting)](https://github.com/xuxiaoooo/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuxiaoooo&layout=compact)](https://github.com/xuxiaoooo/github-readme-stats)
 
 ## 📫 联系我
