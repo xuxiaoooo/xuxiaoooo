@@ -5,7 +5,7 @@
 ## 🚀 About ME
 My major: Biomedical Engineering - Intelligent Computing.
 - 🔭 I am currently engaged in research about `Mental illness and AI`.
-- 🌱 I am currently studying deep learning in speech and signal processing.
+- 🌱 I am currently studying deep learning in `speech and signal processing with DL`.
 
 ## 🛠 Skill
 
