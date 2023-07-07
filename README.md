@@ -2,17 +2,17 @@
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
 
 
-## 🚀 关于我
-我的专业是 生物医学工程 智能计算。
-- 🔭 我目前正在从事 精神疾病 + 人工智能 的研究。
-- 🌱 我目前正在学习 语音、信号处理方向的深度学习。
+## 🚀 About ME
+My major: Biomedical Engineering - Intelligent Computing.
+- 🔭 I am currently engaged in research about `Mental illness and AI`.
+- 🌱 I am currently studying deep learning in speech and signal processing.
 
-## 🛠 技能树
+## 🛠 Skill
 
-- 💻 编程语言 Python, C#, Javascript, HTML, CSS ...
-- 🌐 网络开发 Vue, React ...
+- 💻 Code Language: Python, C#, Javascript, HTML, CSS ...
+- 🌐 Web Development: Vue, React ...
 
-## 我的 GitHub 统计信息
+## My Github Statistics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xuxiaoooo&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
 
@@ -26,5 +26,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuxiaoooo&layout=compact&theme=highcontrast)](https://github.com/xuxiaoooo/github-readme-stats)
 
-## 📫 联系我
+## 📫 Contact ME
 - Email: xuxiaooo1111@gmail.com
