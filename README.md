@@ -12,7 +12,7 @@ My major: Biomedical Engineering - Intelligent Computing.
 - 💻 Code Language: Python, C#, Javascript, HTML, CSS ...
 - 🌐 Web Development: Vue, React ...
 
-## My Github Statistics
+## 🛢 My Github Statistics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xuxiaoooo&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast)
 
