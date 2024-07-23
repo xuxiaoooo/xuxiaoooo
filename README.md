@@ -18,7 +18,7 @@ My major: Biomedical Engineering - Intelligent Computing.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuxiaoooo&repo=ABAFnet&theme=highcontrast)](https://github.com/xuxiaoooo/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuxiaoooo&repo=ANRFC2023&theme=highcontrast)](https://github.com/xuxiaoooo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuxiaoooo&repo=FACES&theme=highcontrast)](https://github.com/xuxiaoooo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuxiaoooo&layout=compact&theme=highcontrast)](https://github.com/xuxiaoooo/github-readme-stats)
 
